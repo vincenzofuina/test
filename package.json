@@ -1,0 +1,25 @@
+{
+  "name": "NewCoinListing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance-api-node": "^0.12.7",
+    "dotenv": "^10.0.0",
+    "got": "^11.8.2",
+    "kucoin-node-api": "^2.1.5",
+    "kucoin-node-sdk": "^1.0.5",
+    "number-precision": "^1.5.1",
+    "scientific-to-decimal": "^1.1.1",
+    "ws": "^8.2.3"
+  },
+  "devDependencies": {
+    "bottleneck": "^2.19.5"
+  }
+}

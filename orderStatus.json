@@ -1,0 +1,12 @@
+{
+  "PMG-USDT": {
+    "purchasePrice": "0.1275",
+    "takeProfitPrice": "0.1300",
+    "stopLossPrice": "0.1250",
+    "qty": "39",
+    "isOrderPlaced": false,
+    "isTimeLocked": true,
+    "isAttemptingSell": false,
+    "timeStamp": 1706699043079
+  }
+}
